@@ -93,7 +93,7 @@ All data supporting the findings of this study are derived from publicly availab
 
 ## Citation
 
-Zhang J, Xu W, Xing J, Sun Y, Huang S, Su X, CAM-Net: a context-aware network for identifying reliable microbial relations via optimal consortium, Briefings in Bioinformatics, 2026
+Junhui Zhang, Wenfei Xu, Jieqi Xing, Yangyang Sun, Shi Huang, Xiaoquan Su, CAM-Net: a context-aware network for identifying reliable microbial relations via optimal consortium, Briefings in Bioinformatics, Volume 27, Issue 4, July 2026, bbag394, https://doi.org/10.1093/bib/bbag394
 
 ## Contact
 
